@@ -1,5 +1,18 @@
--Hi, I’m @jhschulte44
--I’m currently learning how to code and interpret data
+### Hi, I’m Jack, and welcome to my GitHub!
+
+I’m a graduate of the UNC Chapel Hill Data Analytics Bootcamp and looking to hone my skills in a data analytics career.
+
+I have proficient experience with the following programs and languages:
+
+* Microsoft Excel
+* Python 
+* Jupyter Notebook
+* Pandas
+* SQL
+* AWS
+* HTML & CSS
+* JavaScript
+* Tableau 
 
 $ git config --global user.name "Jack Key"
 
